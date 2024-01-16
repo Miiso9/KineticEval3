@@ -1,0 +1,13 @@
+.gitignore
+.gitattributes
+aux$
+log$
+out$
+png$
+NEWS.md
+README.md
+^\.Rproj\.user$
+^.*\.Rproj$
+\.Rhistory
+\.Rcheck
+\.tar\.gz$
